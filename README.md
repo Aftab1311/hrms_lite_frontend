@@ -17,10 +17,10 @@ The application is designed with a clean, professional UI and production-ready s
 ## 🚀 Live Application
 
 🌐 **Live Frontend URL:**  
-https://your-frontend-url.vercel.app
+https://hrms-lite-frontend-nine.vercel.app/dashboard
 
 🔗 **Connected Backend API:**  
-https://your-backend-url.onrender.com
+https://hrms-lite-backend-1-8mlt.onrender.com
 
 ---
 
